@@ -1,2 +1,2 @@
 # Music-Sheets
-Music Sheets using LilyPound and Frescobaldi
+Music Sheets using LilyPond and Frescobaldi
